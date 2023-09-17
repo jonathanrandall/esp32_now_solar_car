@@ -1,6 +1,12 @@
 # esp32_now_solar_car
  solar powered rc buggy
 
+ The video instructions are here:
+ https://youtu.be/O6xnOEPSv2g
+
+ There are detailed build instructions on instructables:
+ https://www.instructables.com/Solar-Powered-RC-Buggy-With-Sun-Tracking-and-Esp32/
+
 ## This repository contains the following:
 
 ### car_side_esp32_solar_v2 
